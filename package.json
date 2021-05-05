@@ -1,0 +1,17 @@
+{
+  "name": "gitview",
+  "version": "0.1.0",
+  "description": "Gitview is a npm module that opens a browser tab to visualize a git repo as a tree",
+  "main": "cli.js",
+  "bin": {
+    "gitview": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "juliansotop",
+  "license": "ISC"
+}
