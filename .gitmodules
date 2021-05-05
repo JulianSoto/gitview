@@ -1,0 +1,3 @@
+[submodule "gitview-gui"]
+	path = gitview-gui
+	url = https://github.com/JulianSoto/gitview-gui.git
